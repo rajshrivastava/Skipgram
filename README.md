@@ -6,3 +6,6 @@ A feed-forward neural network to convert English words into N-dimensional vector
 2. The resultant trained word vectors  are preserved as "skipgram_w1.npy".
 
 3. "predict.py" uses the trained word vectors to: (i) output cosine similarity between two input words. (ii) output 10 closest context words to any input words. This code has been formatted to fetch input from command line.
+
+
+Also, here is the [Implementation using TensorFlow](https://github.com/rajshrivastava/Word-embeddings).

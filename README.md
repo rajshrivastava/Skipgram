@@ -1,6 +1,6 @@
 # Skipgram
 
-Table of Contents
+## Table of Contents
   * [Overview](#overview)
   * [How to run](#how-to-run)
   * [How does it work?](#how-does-it-work-)

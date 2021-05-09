@@ -12,13 +12,14 @@ Mikolv et. al. in https://arxiv.org/abs/1301.3781 proposed two architectures for
 - Skip-gram
 - CBOW
 
-![models](res/imgs/models.png)
+<img src="./res/imgs/models.png" alt="models" width="400"/>
+
 
 The original code was written in C.
 
 This repository contains the implementation of neural network for skip-gram from scratch in Python without using any machine learning or text processing libraries.
 
-![skip-gram](res/imgs/skipgram.png)
+<img src="./res/imgs/skipgram.png" alt="skipgram" width="400"/>
 
 ## How to run
   To train the model, run the `train_minibatch.py` script on command line:
